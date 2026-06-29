@@ -1,3 +1,9 @@
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/elwanenonly)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@elwanenonly)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/patrix145_])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fauzan-faturrahman)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ojannn.ojannn451@gmail.com)
+
 # Halo, Saya Fauzan Faturrahman! aka El Wan 🍪🦖
 
 🎓 **Mahasiswa Sistem Informasi** di Universitas Pembangunan Nasional "Veteran" Jakarta (UPNVJ)
@@ -16,7 +22,7 @@ Saya adalah mahasiswa D3 Sistem Informasi yang saat ini sedang mengeksplor banya
 ### 📂 Proyek Pilihan
 *   **GAMESEED 2026:** Berpartisipasi dalam kompetisi *game development* dan merancang kampanye kreatif di media sosial.
 
-### 🎲 Di Luar Dunia Coding
+### 📚 Di Luar Dunia Coding
 *   **Sains & Pengetahuan:** Tertarik pada eksplorasi dan pemahaman mendalam mengenai **ilmu forensik, fisika, dan anatomi**.
 
 ---

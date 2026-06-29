@@ -18,7 +18,9 @@ Saya adalah mahasiswa D3 Sistem Informasi yang saat ini sedang mengeksplor banya
 
 ### 🛠️ Keahlian & Teknologi
 *   **Game Development:** Godot Engine, GDScript, LibrespritePixel.
-*   **Desain:** UI/UX Design, Photo Editing, Pixel Art.
+*   **Networking:** Cisco, Mikrotik.
+*   **Desain:** UI/UX Design, Pixel Art, Photoshop.
+*   **Photography:** Photography Skill, Photo Editing.
 
 ### 📂 Proyek Pilihan
 *   **GAMESEED 2026:** Berpartisipasi dalam kompetisi *game development* dan merancang kampanye kreatif di media sosial.

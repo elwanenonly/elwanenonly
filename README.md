@@ -14,7 +14,7 @@ Saya adalah mahasiswa D3 Sistem Informasi yang saat ini sedang mengeksplor banya
 
 ### 🚀 Tentang Saya
 *   🔭 Saat ini sedang fokus terlibat dalam organisasi/startup **VIXIES** sebagai Game Designer, 2D Pixel Art, dan Programmer.
-*   🌱 Sedang mengembangkan projek game bersama VIXIES TEAM pada gamejam *GAMESEED*.
+*   🌱 Sedang mengembangkan proyek game bersama VIXIES TEAM pada gamejam *GAMESEED*.
 
 ### 🛠️ Keahlian & Teknologi
 *   **Game Development:** Godot Engine, GDScript, LibrespritePixel.

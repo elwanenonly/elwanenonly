@@ -7,6 +7,7 @@
 # Halo, Saya Fauzan Faturrahman! aka El Wan 🍪🦖
 
 🎓 **Mahasiswa Sistem Informasi** di Universitas Pembangunan Nasional "Veteran" Jakarta (UPNVJ)
+
 💻 **2D Pixel Artist, Game Developer, Junior Programmer**
 
 Saya adalah mahasiswa D3 Sistem Informasi yang saat ini sedang mengeksplor banyak hal. Saya memiliki minat yang mendalam terhadap pengembangan AI dan Machine Learning terstruktur, pembuatan *game*, 2D Pixel Art, dan perancangan UI/UX. 

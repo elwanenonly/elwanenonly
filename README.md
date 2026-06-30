@@ -4,7 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fauzan-faturrahman)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ojannn.ojannn451@gmail.com)
 
-# Halo, Saya Fauzan Faturrahman! aka El Wan 🍪🦖
+# Halo, Saya Fauzan Faturrahman! aka Elwan 🍪🦖
 
 🎓 **Mahasiswa Sistem Informasi** di Universitas Pembangunan Nasional "Veteran" Jakarta (UPNVJ)
 

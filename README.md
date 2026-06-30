@@ -10,7 +10,7 @@
 
 💻 **2D Pixel Artist, Game Developer, Junior Programmer**
 
-Saya adalah mahasiswa D3 Sistem Informasi yang saat ini sedang mengeksplor banyak hal. Saya memiliki minat yang mendalam terhadap pengembangan AI dan Machine Learning terstruktur, pembuatan *game*, 2D Pixel Art, dan perancangan UI/UX. 
+Saya adalah mahasiswa D3 Sistem Informasi tahun kedua yang saat ini sedang mengeksplor banyak hal. Saya memiliki minat yang mendalam terhadap pengembangan AI dan Machine Learning terstruktur, pembuatan *game*, 2D Pixel Art, dan perancangan UI/UX. 
 
 ### 🚀 Tentang Saya
 *   🔭 Saat ini sedang fokus terlibat dalam organisasi/startup **VIXIES** sebagai Game Designer, 2D Pixel Art, dan Programmer.

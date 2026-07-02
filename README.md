@@ -6,21 +6,20 @@
 
 # Halo, Saya Fauzan Faturrahman! aka Elwan 🍪🦖
 
-### 🎓 **Mahasiswa Sistem Informasi** di Universitas Pembangunan Nasional "Veteran" Jakarta (UPNVJ)
+### **Mahasiswa Sistem Informasi** di Universitas Pembangunan Nasional "Veteran" Jakarta (UPNVJ)
 
-### 💻 **2D Pixel Artist, Game Developer, Junior Programmer**
+### **2D Pixel Artist, Game Developer, Junior Programmer**
 
 Saya adalah mahasiswa D3 Sistem Informasi tahun kedua yang saat ini sedang mengeksplor banyak hal. Saya memiliki minat yang mendalam terhadap pengembangan AI dan Machine Learning terstruktur, pembuatan *game*, 2D Pixel Art, dan perancangan UI/UX. 
 
 ### 🚀 Tentang Saya
-*   🔭 Saat ini sedang fokus terlibat dalam organisasi/startup **VIXIES** sebagai Game Designer, 2D Pixel Art, dan Programmer.
-*   🌱 Sedang mengembangkan proyek game bersama VIXIES TEAM pada gamejam *GAMESEED*.
+*   Saat ini sedang fokus terlibat dalam organisasi/startup **VIXIES** sebagai Game Designer, 2D Pixel Art, dan Programmer.
+*   Sedang mengembangkan proyek game bersama VIXIES TEAM pada gamejam *GAMESEED*.
 
 ### 🛠️ Keahlian & Teknologi
-*   🎮 **Game Development:** Godot Engine, GDScript, LibrespritePixel.
-*   🌐 **Networking:** Cisco, Mikrotik.
-*   🎨 **Desain:** UI/UX Design, Pixel Art, Photoshop.
-*   📷 **Photography:** Photography Skill, Photo Editing.
+![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)![GDScript](https://img.shields.io/badge/GDScript-%2374267B.svg?style=for-the-badge&logo=godotengine&logoColor=white)![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)![Mikrotik.](https://img.shields.io/badge/MikroTik-293239.svg?style=for-the-badge&logo=MikroTik&logoColor=white)
+*   **Desain:** UI/UX Design, Pixel Art, PhotoShop.
+*   **Photography:** Photography Skill, Photo Editing.
 
 ### 📂 Proyek Pilihan
 *   **GAMESEED 2026:** Berpartisipasi dalam kompetisi *game development* dan merancang kampanye kreatif di media sosial.
